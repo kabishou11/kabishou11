@@ -30,14 +30,6 @@ AI document generation with interactive TUI · 22 commits · 4 stars
 
 ---
 
-## 🛠️ Tech I Use
-
-`TypeScript` · `Python` · `Node.js` · `React` · `Vue` · `Docker` · `Git`
-
-`ModelScope` · `LLM` · `Qwen3` · `PaddleOCR`
-
----
-
 ## 📫 Get in Touch
 
 - GitHub: [kabishou11](https://github.com/kabishou11)
