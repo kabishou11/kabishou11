@@ -3,10 +3,11 @@
 > Love technology. Keep learning. Build and grow with others.
 
 I’m a software engineer who enjoys exploring AI, developer tools, and interesting ideas.
-也喜欢把学习和实践变成持续发生的事情。
+This space is kept simple on purpose — a quiet place for learning, building, and sharing.
 
-这里不会放太多包装，更想把它当作一个安静但长期更新的角落。
-热爱技术，持续学习，也欢迎一起交流与进步。
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kabishou11&label=Visitors&color=0e75b6&style=flat" alt="Visitor counter" />
+</p>
 
 ---
 
@@ -22,3 +23,4 @@ I’m a software engineer who enjoys exploring AI, developer tools, and interest
 
 - GitHub: [kabishou11](https://github.com/kabishou11)
 - Email: woicyou@gmail.com
+
