@@ -9,7 +9,8 @@
   <a href="https://github.com/langgenius/dify/commits?author=kabishou11"><img src="https://img.shields.io/badge/Dify-contributor-1a7f37" alt="Dify contributor" /></a>
   <a href="https://github.com/vllm-project/vllm/pull/55089"><img src="https://img.shields.io/badge/vLLM-bugfix%20PR-0969da" alt="vLLM PR" /></a>
   <a href="https://github.com/infiniflow/ragflow/pulls?q=is%3Apr+author%3Akabishou11"><img src="https://img.shields.io/badge/RAGFlow-bugfix%20PRs-0969da" alt="RAGFlow PRs" /></a>
-  <a href="mailto:woicyou@gmail.com"><img src="https://img.shields.io/badge/email-woicyou%40gmail.com-555" alt="email" /></a>
+  <a href="mailto:woicyou@gmail.com"><img src="https://img.shields.io/badge/gmail-woicyou%40gmail.com-555" alt="gmail" /></a>
+  <a href="mailto:woicyou@qq.com"><img src="https://img.shields.io/badge/qq-woicyou%40qq.com-12B7F5" alt="qq email" /></a>
 </p>
 
 I run production LLM / RAG stacks and send **upstream bugfixes** — real reproductions, tests, and the smallest change that actually fixes the failure.
