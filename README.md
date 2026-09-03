@@ -38,8 +38,6 @@ Open PRs are waiting on maintainer review — not merged yet.
 - **[dify-skills](https://github.com/kabishou11/dify-skills)** — executable ops skills for self-hosted Dify (console API, plugins, intranet installs)
 - **[DocForge](https://github.com/kabishou11/DocForge)** — LLM document generation (Markdown / DOCX)
 - **[voiceprint-asr-platform](https://github.com/kabishou11/voiceprint-asr-platform)** — speaker recognition + multi-speaker transcription
-- **[DeepVoucher](https://github.com/kabishou11/DeepVoucher)** — multimodal voucher understanding
-- **[All_Crawler](https://github.com/kabishou11/All_Crawler)** — search / social crawler toolkit
 
 ---
 
