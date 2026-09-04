@@ -13,13 +13,6 @@
 
 I build and operate production LLM / RAG / agent stacks — self-hosted Dify ops, retrieval pipelines, and upstream bugfixes in active AI repos.
 
----
-
-## Selected work
-
-- **[dify-skills](https://github.com/kabishou11/dify-skills)** — executable ops skills for self-hosted Dify (console API, plugins, intranet installs)
-- **[DeepVoucher](https://github.com/kabishou11/DeepVoucher)** — multimodal agent for voucher understanding and accounting workflows
-- **[All_Crawler](https://github.com/kabishou11/All_Crawler)** — search & social crawling toolkit
 
 ---
 
