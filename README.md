@@ -62,7 +62,9 @@ More work in flight across Qwen / agent / RAG ecosystems.
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kabishou11&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="Contribution graph" />
+  <a href="https://github.com/kabishou11">
+    <img src="https://streak-stats.demolab.com/?user=kabishou11&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" alt="GitHub streak" />
+  </a>
 </p>
 
 <p align="center">
