@@ -9,6 +9,9 @@
   <a href="https://github.com/langgenius/dify/commits?author=kabishou11">
     <img src="https://img.shields.io/badge/Dify-contributor-1a7f37?style=for-the-badge&logo=github&logoColor=white" alt="Dify contributor" />
   </a>
+  <a href="https://github.com/infiniflow/ragflow/commits?author=kabishou11">
+    <img src="https://img.shields.io/badge/RAGFlow-contributor-f59e0b?style=for-the-badge&logo=github&logoColor=white" alt="RAGFlow contributor" />
+  </a>
   <a href="https://github.com/modelscope/ms-swift/commits?author=kabishou11">
     <img src="https://img.shields.io/badge/ms--swift-contributor-1677ff?style=for-the-badge&logo=python&logoColor=white" alt="ms-swift contributor" />
   </a>
@@ -27,7 +30,7 @@
 
 ### About
 
-I ship and operate production **LLM / RAG / agent** systems — self-hosted Dify ops, retrieval pipelines, and **upstream bugfixes** in active AI repos that interviewers recognize (Dify, ModelScope ms-swift, QwenPaw, and related tooling).
+I ship and operate production **LLM / RAG / agent** systems — self-hosted Dify ops, retrieval pipelines, and **upstream bugfixes** in active AI repos that interviewers recognize (Dify, RAGFlow, ModelScope ms-swift, QwenPaw, and related tooling).
 
 Prefer fixes with **reproducible RCA + tests**, not drive-by docs.
 
@@ -44,7 +47,7 @@ Upstream contributions · LLM serving · RAG · agent runtimes
 </p>
 
 <p align="center">
-  <code>vLLM</code> · <code>Dify</code> · <code>ms-swift</code> · <code>RAGFlow</code> · <code>Milvus</code> · <code>Qwen</code> · <code>AgentScope</code>
+  <code>vLLM</code> · <code>Dify</code> · <code>RAGFlow</code> · <code>ms-swift</code> · <code>Milvus</code> · <code>Qwen</code> · <code>AgentScope</code>
 </p>
 
 ---
@@ -54,6 +57,7 @@ Upstream contributions · LLM serving · RAG · agent runtimes
 | Area | Role |
 |------|------|
 | [langgenius/dify](https://github.com/langgenius/dify) | Contributor — API / Web / Agent runtime bugfixes |
+| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | Contributor — Agent retrieval / Wiki indexing consistency |
 | [modelscope/ms-swift](https://github.com/modelscope/ms-swift) | Contributor — distributed eval / generate path |
 | [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | Contributor — tool-call coordinator reliability |
 
