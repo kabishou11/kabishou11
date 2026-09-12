@@ -63,9 +63,9 @@ Upstream contributions · LLM serving · RAG · agent runtimes
 | Area | Role |
 |------|------|
 | [langgenius/dify](https://github.com/langgenius/dify) | Contributor — API / Web / Agent runtime bugfixes |
-| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | Contributor — Agent retrieval / Wiki indexing consistency |
+| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | Contributor — Agent retrieval / Wiki indexing (×2 merges) |
 | [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | Contributor — serve boot / MCP discovery timing |
-| [alibaba/MNN](https://github.com/alibaba/MNN) | Contributor — converter fail-fast / TFLite index guards |
+| [alibaba/MNN](https://github.com/alibaba/MNN) | Contributor — converter fail-fast / TFLite index + createUnit (×2 merges) |
 | [modelscope/ms-swift](https://github.com/modelscope/ms-swift) | Contributor — distributed eval / generate path |
 | [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | Contributor — tool-call coordinator reliability |
 
