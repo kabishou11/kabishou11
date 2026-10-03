@@ -62,14 +62,17 @@ Upstream contributions · LLM serving · RAG · agent runtimes
 
 | Area | Role |
 |------|------|
-| [langgenius/dify](https://github.com/langgenius/dify) | Contributor — API / Web / Agent runtime bugfixes |
+| [langgenius/dify](https://github.com/langgenius/dify) | Contributor — API / Web / Agent runtime bugfixes (×8 merges) |
+| [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | Contributor — serve boot / MCP discovery / ACP transport reliability (×5 merges) |
 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | Contributor — Agent retrieval / Wiki indexing (×2 merges) |
-| [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | Contributor — serve boot / MCP discovery timing |
+| [Zleap-AI/SAG](https://github.com/Zleap-AI/SAG) | Contributor — PDF/Office read fix / self-hosted MinerU 4.x integration (×2 merges) |
 | [alibaba/MNN](https://github.com/alibaba/MNN) | Contributor — converter fail-fast / TFLite index + createUnit (×2 merges) |
 | [modelscope/ms-swift](https://github.com/modelscope/ms-swift) | Contributor — distributed eval / generate path |
 | [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | Contributor — tool-call coordinator reliability |
 
-More work in flight across Qwen / agent / RAG ecosystems.
+**21 merged upstream PRs** so far.
+
+More work in flight across Qwen / agent / RAG ecosystems (agentscope, LightRAG, SAG, Dify).
 
 ---
 
