@@ -69,8 +69,9 @@ Upstream contributions · LLM serving · RAG · agent runtimes
 | [alibaba/MNN](https://github.com/alibaba/MNN) | Contributor — converter fail-fast / TFLite index + createUnit (×2 merges) |
 | [modelscope/ms-swift](https://github.com/modelscope/ms-swift) | Contributor — distributed eval / generate path |
 | [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | Contributor — tool-call coordinator reliability |
+| [ag2ai/ag2](https://github.com/ag2ai/ag2) | Contributor — knowledge store literal path-prefix matching |
 
-**23 merged upstream PRs** so far.
+**24 merged upstream PRs** so far.
 
 More work in flight across Qwen / agent / RAG ecosystems (agentscope, LightRAG, SAG, Dify).
 
