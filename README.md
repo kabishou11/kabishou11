@@ -24,6 +24,12 @@
   <a href="https://github.com/agentscope-ai/QwenPaw/commits?author=kabishou11">
     <img src="https://img.shields.io/badge/QwenPaw-contributor-7c3aed?style=for-the-badge&logo=openai&logoColor=white" alt="QwenPaw contributor" />
   </a>
+  <a href="https://github.com/Zleap-AI/SAG/commits?author=kabishou11">
+    <img src="https://img.shields.io/badge/SAG-contributor-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="SAG contributor" />
+  </a>
+  <a href="https://github.com/ag2ai/ag2/commits?author=kabishou11">
+    <img src="https://img.shields.io/badge/AG2-contributor-155e75?style=for-the-badge&logo=github&logoColor=white" alt="AG2 contributor" />
+  </a>
 </p>
 
 <p align="center">
@@ -36,7 +42,7 @@
 
 ### About
 
-I ship and operate production **LLM / RAG / agent** systems — self-hosted Dify ops, retrieval pipelines, and **upstream bugfixes** in active AI repos that interviewers recognize (Dify, RAGFlow, Qwen Code, Alibaba MNN, ModelScope ms-swift, QwenPaw, and related tooling).
+I ship and operate production **LLM / RAG / agent** systems — self-hosted Dify ops, retrieval pipelines, and **upstream bugfixes** in active AI repos that interviewers recognize (Dify, RAGFlow, Qwen Code, Alibaba MNN, ModelScope ms-swift, QwenPaw, SAG, AG2, and related tooling).
 
 Prefer fixes with **reproducible RCA + tests**, not drive-by docs.
 
@@ -53,7 +59,7 @@ Upstream contributions · LLM serving · RAG · agent runtimes
 </p>
 
 <p align="center">
-  <code>vLLM</code> · <code>Dify</code> · <code>RAGFlow</code> · <code>Qwen</code> · <code>MNN</code> · <code>ms-swift</code> · <code>Milvus</code> · <code>AgentScope</code>
+  <code>vLLM</code> · <code>Dify</code> · <code>RAGFlow</code> · <code>Qwen</code> · <code>MNN</code> · <code>ms-swift</code> · <code>Milvus</code> · <code>AgentScope</code> · <code>AG2</code>
 </p>
 
 ---
@@ -69,11 +75,11 @@ Upstream contributions · LLM serving · RAG · agent runtimes
 | [alibaba/MNN](https://github.com/alibaba/MNN) | Contributor — converter fail-fast / TFLite index + createUnit (×2 merges) |
 | [modelscope/ms-swift](https://github.com/modelscope/ms-swift) | Contributor — distributed eval / generate path |
 | [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | Contributor — tool-call coordinator reliability |
-| [ag2ai/ag2](https://github.com/ag2ai/ag2) | Contributor — knowledge store literal path-prefix matching |
+| [ag2ai/ag2](https://github.com/ag2ai/ag2) | Contributor — knowledge path matching, file watch, eval dataset tags (×3 merges) |
 
-**24 merged upstream PRs** so far.
+**26 merged upstream PRs** so far.
 
-More work in flight across Qwen / agent / RAG ecosystems (agentscope, LightRAG, SAG, Dify).
+More work in flight across Qwen / agent / RAG ecosystems (agentscope, LightRAG, Dify, docling, qdrant).
 
 ---
 
