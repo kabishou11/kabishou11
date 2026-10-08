@@ -30,6 +30,9 @@
   <a href="https://github.com/ag2ai/ag2/commits?author=kabishou11">
     <img src="https://img.shields.io/badge/AG2-contributor-155e75?style=for-the-badge&logo=github&logoColor=white" alt="AG2 contributor" />
   </a>
+  <a href="https://github.com/agentscope-ai/agentscope/commits?author=kabishou11">
+    <img src="https://img.shields.io/badge/AgentScope-contributor-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="AgentScope contributor" />
+  </a>
 </p>
 
 <p align="center">
@@ -42,7 +45,7 @@
 
 ### About
 
-I ship and operate production **LLM / RAG / agent** systems — self-hosted Dify ops, retrieval pipelines, and **upstream bugfixes** in active AI repos that interviewers recognize (Dify, RAGFlow, Qwen Code, Alibaba MNN, ModelScope ms-swift, QwenPaw, SAG, AG2, and related tooling).
+I ship and operate production **LLM / RAG / agent** systems — self-hosted Dify ops, retrieval pipelines, and **upstream bugfixes** in active AI repos that interviewers recognize (Dify, RAGFlow, Qwen Code, Alibaba MNN, ModelScope ms-swift, QwenPaw, SAG, AG2, AgentScope, and related tooling).
 
 Prefer fixes with **reproducible RCA + tests**, not drive-by docs.
 
@@ -76,8 +79,9 @@ Upstream contributions · LLM serving · RAG · agent runtimes
 | [modelscope/ms-swift](https://github.com/modelscope/ms-swift) | Contributor — distributed eval / generate path |
 | [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | Contributor — tool-call coordinator reliability |
 | [ag2ai/ag2](https://github.com/ag2ai/ag2) | Contributor — knowledge path matching, file watch, eval dataset tags (×3 merges) |
+| [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | Contributor — app scheduler start-time anchoring |
 
-**26 merged upstream PRs** so far.
+**27 merged upstream PRs** so far.
 
 More work in flight across Qwen / agent / RAG ecosystems (agentscope, LightRAG, Dify, docling, qdrant).
 
