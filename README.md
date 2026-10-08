@@ -33,6 +33,9 @@
   <a href="https://github.com/agentscope-ai/agentscope/commits?author=kabishou11">
     <img src="https://img.shields.io/badge/AgentScope-contributor-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="AgentScope contributor" />
   </a>
+  <a href="https://github.com/promptfoo/promptfoo/commits?author=kabishou11">
+    <img src="https://img.shields.io/badge/promptfoo-contributor-be185d?style=for-the-badge&logo=github&logoColor=white" alt="promptfoo contributor" />
+  </a>
 </p>
 
 <p align="center">
@@ -45,7 +48,7 @@
 
 ### About
 
-I ship and operate production **LLM / RAG / agent** systems — self-hosted Dify ops, retrieval pipelines, and **upstream bugfixes** in active AI repos that interviewers recognize (Dify, RAGFlow, Qwen Code, Alibaba MNN, ModelScope ms-swift, QwenPaw, SAG, AG2, AgentScope, and related tooling).
+I ship and operate production **LLM / RAG / agent** systems — self-hosted Dify ops, retrieval pipelines, and **upstream bugfixes** in active AI repos that interviewers recognize (Dify, RAGFlow, Qwen Code, Alibaba MNN, ModelScope ms-swift, QwenPaw, SAG, AG2, AgentScope, Promptfoo, and related tooling).
 
 Prefer fixes with **reproducible RCA + tests**, not drive-by docs.
 
@@ -62,7 +65,7 @@ Upstream contributions · LLM serving · RAG · agent runtimes
 </p>
 
 <p align="center">
-  <code>vLLM</code> · <code>Dify</code> · <code>RAGFlow</code> · <code>Qwen</code> · <code>MNN</code> · <code>ms-swift</code> · <code>Milvus</code> · <code>AgentScope</code> · <code>AG2</code>
+  <code>vLLM</code> · <code>Dify</code> · <code>RAGFlow</code> · <code>Qwen</code> · <code>MNN</code> · <code>ms-swift</code> · <code>Milvus</code> · <code>AgentScope</code> · <code>AG2</code> · <code>Promptfoo</code>
 </p>
 
 ---
@@ -80,8 +83,9 @@ Upstream contributions · LLM serving · RAG · agent runtimes
 | [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | Contributor — tool-call coordinator reliability |
 | [ag2ai/ag2](https://github.com/ag2ai/ag2) | Contributor — knowledge path matching, file watch, eval dataset tags (×3 merges) |
 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | Contributor — app scheduler start-time anchoring |
+| [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | Contributor — eval var substitution / CSV similarity assertion types (×2 merges) |
 
-**27 merged upstream PRs** so far.
+**29 merged upstream PRs** so far.
 
 More work in flight across Qwen / agent / RAG ecosystems (agentscope, LightRAG, Dify, docling, qdrant).
 
