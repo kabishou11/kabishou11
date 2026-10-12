@@ -39,6 +39,9 @@
   <a href="https://github.com/qingjian-team/qingjian/commits?author=kabishou11">
     <img src="https://img.shields.io/badge/Qingjian-contributor-b45309?style=for-the-badge&logo=rust&logoColor=white" alt="Qingjian contributor" />
   </a>
+  <a href="https://github.com/RUC-NLPIR/FlashRAG/commits?author=kabishou11">
+    <img src="https://img.shields.io/badge/FlashRAG-contributor-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="FlashRAG contributor" />
+  </a>
 </p>
 
 <p align="center">
@@ -51,7 +54,7 @@
 
 ### About
 
-I ship and operate production **LLM / RAG / agent** systems — self-hosted Dify ops, retrieval pipelines, and **upstream bugfixes** in active AI repos that interviewers recognize (Dify, RAGFlow, Qwen Code, Alibaba MNN, ModelScope ms-swift, QwenPaw, SAG, AG2, AgentScope, Promptfoo, Qingjian, and related tooling).
+I ship and operate production **LLM / RAG / agent** systems — self-hosted Dify ops, retrieval pipelines, and **upstream bugfixes** in active AI repos that interviewers recognize (Dify, RAGFlow, Qwen Code, Alibaba MNN, ModelScope ms-swift, QwenPaw, SAG, AG2, AgentScope, Promptfoo, Qingjian, FlashRAG, and related tooling).
 
 Prefer fixes with **reproducible RCA + tests**, not drive-by docs.
 
@@ -68,7 +71,7 @@ Upstream contributions · LLM serving · RAG · agent runtimes
 </p>
 
 <p align="center">
-  <code>vLLM</code> · <code>Dify</code> · <code>RAGFlow</code> · <code>Qwen</code> · <code>MNN</code> · <code>ms-swift</code> · <code>Milvus</code> · <code>AgentScope</code> · <code>AG2</code> · <code>Promptfoo</code> · <code>Qingjian</code>
+  <code>vLLM</code> · <code>Dify</code> · <code>RAGFlow</code> · <code>Qwen</code> · <code>MNN</code> · <code>ms-swift</code> · <code>Milvus</code> · <code>AgentScope</code> · <code>AG2</code> · <code>Promptfoo</code> · <code>Qingjian</code> · <code>FlashRAG</code>
 </p>
 
 ---
@@ -82,6 +85,7 @@ Upstream contributions · LLM serving · RAG · agent runtimes
 | [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | Contributor — serve boot / MCP discovery / ACP transport reliability (×5 merges) |
 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | Contributor — Agent retrieval / Wiki indexing (×2 merges) |
 | [Zleap-AI/SAG](https://github.com/Zleap-AI/SAG) | Contributor — PDF/Office read fix / self-hosted MinerU 4.x integration / image, page and heading sidecars / hierarchical outline (×4 merges) |
+| [RUC-NLPIR/FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) | Contributor — refiner model resolution / dataset attribute errors / GAOKAO-MM answer scoring (×3 merges) |
 | [alibaba/MNN](https://github.com/alibaba/MNN) | Contributor — converter fail-fast / TFLite index + createUnit (×2 merges) |
 | [modelscope/ms-swift](https://github.com/modelscope/ms-swift) | Contributor — distributed eval / generate path |
 | [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | Contributor — tool-call coordinator reliability |
@@ -89,7 +93,7 @@ Upstream contributions · LLM serving · RAG · agent runtimes
 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | Contributor — eval var substitution / CSV similarity assertion types (×2 merges) |
 | [qingjian-team/qingjian](https://github.com/qingjian-team/qingjian) | Contributor — macOS candidate-window font fallback for unreadable outline formats |
 
-**35 merged upstream PRs** so far.
+**38 merged upstream PRs** so far.
 
 More work in flight across Qwen / agent / RAG ecosystems (agentscope, LightRAG, Dify, docling, qdrant).
 
