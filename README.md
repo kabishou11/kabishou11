@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>LLM serving · RAG · agent systems</strong><br/>
-  Building &amp; operating production AI stacks · Wuxi, China
+  Building &amp; operating production AI stacks · ECARX (Geely Holding Group) · Wuxi, China
 </p>
 
 <p align="center">
