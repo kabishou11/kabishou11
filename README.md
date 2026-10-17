@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>LLM serving · RAG · agent systems</strong><br/>
-  Building &amp; operating production AI stacks · ECARX (Geely Holding Group) · Suzhou, China
+  Building &amp; operating production AI stacks · ECARX · Suzhou, China
 </p>
 
 <p align="center">
@@ -54,9 +54,21 @@
 
 ### About
 
-I ship and operate production **LLM / RAG / agent** systems — self-hosted Dify ops, retrieval pipelines, and **upstream bugfixes** in active AI repos that interviewers recognize (Dify, RAGFlow, Qwen Code, Alibaba MNN, ModelScope ms-swift, QwenPaw, SAG, AG2, AgentScope, Promptfoo, Qingjian, FlashRAG, Qdrant, and related tooling).
+I ship and operate production **LLM / RAG / agent** systems — self-hosted Dify ops, retrieval pipelines, and **upstream bugfixes** in widely used open-source projects (Dify, RAGFlow, Qwen Code, Alibaba MNN, ModelScope ms-swift, QwenPaw, SAG, AG2, AgentScope, Promptfoo, Qingjian, FlashRAG, Qdrant, and related tooling).
 
 Prefer fixes with **reproducible RCA + tests**, not drive-by docs.
+
+---
+
+### Projects I maintain
+
+| Project | What it does |
+|---------|--------------|
+| [**os-hybrid-kit**](https://github.com/kabishou11/os-hybrid-kit) <br/> ![stars](https://img.shields.io/github/stars/kabishou11/os-hybrid-kit?style=social) | Portable Python library for OpenSearch hybrid search: BM25 + kNN fused with RRF or weighted score normalization, with thin Dify, LangChain and LlamaIndex adapters. |
+| [**dify-skills**](https://github.com/kabishou11/dify-skills) <br/> ![stars](https://img.shields.io/github/stars/kabishou11/dify-skills?style=social) | Executable runbooks (`SKILL.md` Agent Skills) for operating self-hosted Dify Community 1.17: real HTTP routes, auth, payloads and failure modes. |
+| [**DocForge**](https://github.com/kabishou11/DocForge) <br/> ![stars](https://img.shields.io/github/stars/kabishou11/DocForge?style=social) | LLM-powered document generator: write from a topic or match the style of an existing document, then export clean DOCX. |
+
+If one of these saves you time, a ⭐ helps others find it. Issues and PRs are welcome.
 
 ---
 
