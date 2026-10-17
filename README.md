@@ -92,9 +92,9 @@ Upstream contributions · LLM serving · RAG · agent runtimes
 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | Contributor — app scheduler start-time anchoring / local file URL decode (×2 merges) |
 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | Contributor — eval var substitution / CSV similarity assertion types (×2 merges) |
 | [qingjian-team/qingjian](https://github.com/qingjian-team/qingjian) | Contributor — macOS candidate-window font fallback for unreadable outline formats |
-| [qdrant/qdrant-client](https://github.com/qdrant/qdrant-client) | Contributor — local-mode validation parity for score_threshold, prefetch and fusion queries |
+| [qdrant/qdrant-client](https://github.com/qdrant/qdrant-client) | Contributor — local-mode validation parity for score_threshold, prefetch and fusion queries / formula geo points (×2 merges) |
 
-**43 merged upstream PRs** so far.
+**44 merged upstream PRs** so far.
 
 More work in flight across Qwen / agent / RAG ecosystems (agentscope, LightRAG, Dify, docling, qdrant).
 
