@@ -93,7 +93,7 @@ Upstream contributions · LLM serving · RAG · agent runtimes
 | Area | Role |
 |------|------|
 | [langgenius/dify](https://github.com/langgenius/dify) | Contributor — API / Web / Agent runtime bugfixes (×8 merges) |
-| [ag2ai/ag2](https://github.com/ag2ai/ag2) | Contributor — knowledge store paths and logs, eval suite loading, skills frontmatter, A2UI fences, network graph loading, falsy Variable/Inject values, binary token sizing, shell sandbox ignore-list paths, A2A empty parts, cross-provider file IDs (×13 merges) |
+| [ag2ai/ag2](https://github.com/ag2ai/ag2) | Contributor — knowledge store paths and logs, eval suite loading, skills frontmatter, A2UI fences, network graph loading, falsy Variable/Inject values, binary token sizing, shell sandbox ignore-list paths, A2A empty parts, cross-provider file IDs, empty knowledge dirs after delete (×14 merges) |
 | [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | Contributor — serve boot / MCP discovery / ACP transport reliability (×5 merges) |
 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | Contributor — Agent retrieval / Wiki indexing (×2 merges) |
 | [Zleap-AI/SAG](https://github.com/Zleap-AI/SAG) | Contributor — PDF/Office read fix / self-hosted MinerU 4.x integration / image, page and heading sidecars / hierarchical outline (×4 merges) |
@@ -101,12 +101,12 @@ Upstream contributions · LLM serving · RAG · agent runtimes
 | [alibaba/MNN](https://github.com/alibaba/MNN) | Contributor — converter fail-fast / TFLite index + createUnit (×2 merges) |
 | [modelscope/ms-swift](https://github.com/modelscope/ms-swift) | Contributor — distributed eval / generate path |
 | [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | Contributor — tool-call coordinator reliability |
-| [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | Contributor — app scheduler start-time anchoring / local file URL decode (×2 merges) |
+| [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | Contributor — app scheduler start-time anchoring / local file URL decode / memory frontmatter fence at EOF (×3 merges) |
 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | Contributor — eval var substitution / CSV similarity assertion types (×2 merges) |
 | [qingjian-team/qingjian](https://github.com/qingjian-team/qingjian) | Contributor — macOS candidate-window font fallback for unreadable outline formats |
 | [qdrant/qdrant-client](https://github.com/qdrant/qdrant-client) | Contributor — local-mode validation parity for score_threshold, prefetch and fusion queries / formula geo points (×2 merges) |
 
-**46 merged upstream PRs** so far.
+**48 merged upstream PRs** so far.
 
 More work in flight across Qwen / agent / RAG ecosystems (agentscope, LightRAG, Dify, docling, qdrant).
 
