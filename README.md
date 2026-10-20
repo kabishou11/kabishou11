@@ -47,7 +47,7 @@
 <p align="center">
   <a href="mailto:woicyou@gmail.com"><img src="https://img.shields.io/badge/Gmail-woicyou@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="mailto:woicyou@qq.com"><img src="https://img.shields.io/badge/QQ-woicyou@qq.com-12B7F5?style=flat-square&logo=tencentqq&logoColor=white" alt="QQ mail" /></a>
-  <img src="https://komarev.com/ghpvc/?username=kabishou11&style=flat-square&color=0e7490" alt="profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kabishou11.kabishou11&left_text=profile%20views&left_color=gray&right_color=0e7490" alt="profile views" />
 </p>
 
 ---
