@@ -1,101 +1,70 @@
 <!--
-Components (OSS widgets):
-- anuraghazra/github-readme-stats — MIT — https://github.com/anuraghazra/github-readme-stats
-- ryo-ma/github-profile-trophy — MIT — https://github.com/ryo-ma/github-profile-trophy
-- denvercoder1/github-readme-streak-stats — MIT — https://github.com/DenverCoder1/github-readme-streak-stats
-- readme-typing-svg (demolab) — MIT — https://github.com/DenverCoder1/readme-typing-svg
-- komarev/ghpvc (visitor counter) — MIT — https://github.com/antonkomarev/github-profile-views-counter
-Public profile copy only — no tooling-disclosure wording.
+Widgets (OSS, MIT where noted):
+- anuraghazra/github-readme-stats — MIT
+- denvercoder1/github-readme-streak-stats — MIT
+- komarev/ghpvc — MIT
+Snorlax mark: original SVG in this repo (snorlax.svg) — geometric silhouette, not Nintendo art.
+Place snorlax.svg in the profile repo root next to this README.
 -->
 
 <div align="center">
 
-# Hi, I'm Zhu Lei / 朱磊
+<img src="./snorlax.svg" alt="Snorlax" width="160" />
 
-### kabishou11 · ECARX · Suzhou
+# Peter Zhu
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=680&lines=LLM+serving+%C2%B7+RAG+%C2%B7+agent+systems;Open-source+contributor;Building+at+ECARX+%C2%B7+Suzhou)](https://www.kabishou.com)
+**朱磊 · kabishou11**
 
-[![GitHub](https://img.shields.io/badge/GitHub-kabishou11-181717?style=for-the-badge&logo=github)](https://github.com/kabishou11)
-[![Website](https://img.shields.io/badge/www.kabishou.com-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.kabishou.com)
-[![X](https://img.shields.io/badge/@Zlxhappy0_0-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Zlxhappy0_0)
-[![Email](https://img.shields.io/badge/woicyou@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:woicyou@gmail.com)
+Engineer in Suzhou · ECARX (Geely Holding)
 
-![Profile views](https://komarev.com/ghpvc/?username=kabishou11&style=flat-square&color=22d3ee&label=profile+views)
+Open-source contributions · inference &amp; retrieval systems
+
+<br/>
+
+[GitHub](https://github.com/kabishou11)
+·
+[www.kabishou.com](https://www.kabishou.com)
+·
+[X @Zlxhappy0_0](https://x.com/Zlxhappy0_0)
+·
+[Xiaohongshu / 小红书](https://xhslink.cn/o/1bGkastHIJd)
+·
+[woicyou@gmail.com](mailto:woicyou@gmail.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=kabishou11&style=flat-square&color=3d4f63&label=views)
 
 </div>
 
 ---
 
-```bash
-$ whoami
-Zhu Lei / kabishou11
-LLM serving · RAG · agent systems
-ECARX (Geely Holding Group) · Suzhou, China
+### About
 
-$ current_focus
-- Production LLM serving & retrieval stacks
-- Hybrid search (BM25 + kNN / RRF) & RAG evaluation
-- Agent orchestration tooling & upstream contributions
+I work on systems that have to hold up in production — efficient inference on modern GPUs, and hybrid retrieval when lexical and vector scores need a careful fusion. I contribute upstream and keep a few focused repos of my own.
 
-$ stack
-Python · TypeScript · OpenSearch · Dify · Docker
-RAGFlow · FlashRAG · AgentScope · Qdrant
-
-$ links
-https://github.com/kabishou11
-https://www.kabishou.com
-https://x.com/Zlxhappy0_0
-mailto:woicyou@gmail.com
-```
+Based in Suzhou. Day job at ECARX.
 
 ---
 
-## Upstream contributions
+### Selected projects
 
-| Project | Focus |
-|--------|--------|
-| [Dify](https://github.com/langgenius/dify) | Self-hosted LLM app platform |
-| [AG2](https://github.com/ag2ai/ag2) | Multi-agent framework |
-| [Qwen Code](https://github.com/QwenLM/qwen-code) | Coding agent / tooling |
-| [RAGFlow](https://github.com/infiniflow/ragflow) | RAG engine |
-| [FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) | RAG research toolkit |
-| [MNN](https://github.com/alibaba/MNN) | On-device inference |
-| [AgentScope](https://github.com/modelscope/agentscope) | Agent framework |
-| [Promptfoo](https://github.com/promptfoo/promptfoo) | Prompt / LLM eval |
-| Qingjian | Related tooling |
-| [Qdrant client](https://github.com/qdrant/qdrant-client) | Vector DB client |
-
-## Maintained projects
-
-| Repo | Description |
-|------|-------------|
-| [os-hybrid-kit](https://github.com/kabishou11/os-hybrid-kit) | Portable OpenSearch hybrid search (BM25 + kNN, RRF / weighted fusion) + adapters |
-| [dify-skills](https://github.com/kabishou11/dify-skills) | Executable SKILL.md runbooks for self-hosted Dify |
-| [DocForge](https://github.com/kabishou11/DocForge) | Document generator: topic / style-match → Markdown / DOCX |
-
-Also: [ragflow-uploadzz](https://github.com/kabishou11/ragflow-uploadzz) · [DeepVoucher](https://github.com/kabishou11/DeepVoucher) · [All_Crawler](https://github.com/kabishou11/All_Crawler)
+| Repo | What it is |
+|------|------------|
+| [deepinfer-hopper](https://github.com/kabishou11/deepinfer-hopper) | Inference adapted for NVIDIA H200 / Hopper (SM90) — real throughput, not a generic CUDA port |
+| [os-hybrid-kit](https://github.com/kabishou11/os-hybrid-kit) | Portable OpenSearch hybrid search (BM25 + kNN, RRF / weighted fusion) |
+| [zvec-grep](https://github.com/kabishou11/zvec-grep) | Local-first workspace search — text, BM25, and vectors in one CLI (fork of zvec-ai/zvec-grep) |
 
 ---
 
 <div align="center">
 
-## GitHub stats
+### GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=kabishou11&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabishou11&layout=compact&theme=radical&hide_border=true" height="165" alt="Top languages" />
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=kabishou11&theme=radical&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=kabishou11&show_icons=true&theme=graywhite&hide_border=true&count_private=true" height="155" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabishou11&layout=compact&theme=graywhite&hide_border=true" height="155" alt="Top languages" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=kabishou11&theme=radical&column=7&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="Trophies" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kabishou11&theme=react-dark&hide_border=true&area=true" alt="Contribution graph" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=kabishou11&theme=graywhite&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -103,8 +72,8 @@ Also: [ragflow-uploadzz](https://github.com/kabishou11/ragflow-uploadzz) · [Dee
 
 <div align="center">
 
-**Zhu Lei / kabishou11** · LLM serving · RAG · agent systems · ECARX · Suzhou
+**Peter Zhu / 朱磊** · kabishou11 · ECARX · Suzhou
 
-[GitHub](https://github.com/kabishou11) · [www.kabishou.com](https://www.kabishou.com) · [X @Zlxhappy0_0](https://x.com/Zlxhappy0_0) · [woicyou@gmail.com](mailto:woicyou@gmail.com)
+[GitHub](https://github.com/kabishou11) · [Site](https://www.kabishou.com) · [X](https://x.com/Zlxhappy0_0) · [Xiaohongshu / 小红书](https://xhslink.cn/o/1bGkastHIJd) · [Email](mailto:woicyou@gmail.com)
 
 </div>
