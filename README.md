@@ -3,13 +3,13 @@ Widgets (OSS, MIT where noted):
 - anuraghazra/github-readme-stats — MIT
 - denvercoder1/github-readme-streak-stats — MIT
 - komarev/ghpvc — MIT
-Snorlax mark: original SVG in this repo (snorlax.svg) — geometric silhouette, not Nintendo art.
-Place snorlax.svg in the profile repo root next to this README.
+Snorlax mark: sticker artwork in this repo (snorlax.png).
+Place snorlax.png in the profile repo root next to this README.
 -->
 
 <div align="center">
 
-<img src="./snorlax.svg" alt="Snorlax" width="160" />
+<img src="./snorlax.png" alt="Snorlax" width="160" />
 
 # Peter Zhu
 
