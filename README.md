@@ -55,6 +55,29 @@ Based in Suzhou. Day job at ECARX.
 
 ---
 
+### Selected upstream PRs
+
+~50 merged upstream PRs (as of 2026-10-26). A sample:
+
+| Project | PR | What |
+|---------|-----|------|
+| [dify](https://github.com/langgenius/dify) | [#41871](https://github.com/langgenius/dify/pull/41871) | Persist Chatflow Agent V2 memory by conversation_id |
+| [ag2](https://github.com/ag2ai/ag2) | [#3441](https://github.com/ag2ai/ag2/pull/3441) | Reject cross-provider files in Chat Completions messages |
+| [FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) | [#254](https://github.com/RUC-NLPIR/FlashRAG/pull/254) | Resolve BART and T5 refiner models in get_refiner |
+| [ragflow](https://github.com/infiniflow/ragflow) | [#19698](https://github.com/infiniflow/ragflow/pull/19698) | Require explicit edges for DataOperations query refs |
+| [qwen-code](https://github.com/QwenLM/qwen-code) | [#11925](https://github.com/QwenLM/qwen-code/pull/11925) | Drop oversized ACP notifications instead of tearing down the channel |
+| [SAG](https://github.com/Zleap-AI/SAG) | [#209](https://github.com/Zleap-AI/SAG/pull/209) | Support self-hosted MinerU 4.x via the V1 API |
+| [agentscope](https://github.com/agentscope-ai/agentscope) | [#3345](https://github.com/agentscope-ai/agentscope/pull/3345) | Keep frontmatter when the closing fence ends the text |
+| [promptfoo](https://github.com/promptfoo/promptfoo) | [#11366](https://github.com/promptfoo/promptfoo/pull/11366) | Insert nested var values literally when they contain $ patterns |
+| [MNN](https://github.com/alibaba/MNN) | [#4834](https://github.com/alibaba/MNN/pull/4834) | Fail fast on out-of-range TFLite tensor/buffer indices |
+| [qdrant-client](https://github.com/qdrant/qdrant-client) | [#1599](https://github.com/qdrant/qdrant-client/pull/1599) | Ignore extra fields on formula geo points in local mode |
+| [ms-swift](https://github.com/modelscope/ms-swift) | [#10048](https://github.com/modelscope/ms-swift/pull/10048) | Preserve 2D predictions in predict_with_generate DDP eval |
+| [qingjian](https://github.com/qingjian-team/qingjian) | [#348](https://github.com/qingjian-team/qingjian/pull/348) | Skip unreadable swash fonts; fix blank CJK candidates on macOS 27 |
+
+[All merged upstream PRs](https://github.com/search?q=author%3Akabishou11+is%3Apr+is%3Amerged+-user%3Akabishou11&type=issues)
+
+---
+
 <div align="center">
 
 ### GitHub
