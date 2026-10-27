@@ -57,7 +57,7 @@ Based in Suzhou. Day job at ECARX.
 
 ### Selected upstream PRs
 
-~50 merged upstream PRs (as of 2026-10-26). A sample:
+~51 merged upstream PRs (as of 2026-10-27). A sample:
 
 | Project | PR | What |
 |---------|-----|------|
