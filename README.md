@@ -1,6 +1,7 @@
 <!--
 Widgets (OSS, MIT where noted):
 - anuraghazra/github-readme-stats — MIT
+- stats-organization/github-stats-extended — MIT; live stats host
 - denvercoder1/github-readme-streak-stats — MIT
 - komarev/ghpvc — MIT
 Snorlax mark: sticker artwork in this repo (snorlax.png).
@@ -82,8 +83,8 @@ Based in Suzhou. Day job at ECARX.
 
 ### GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=kabishou11&show_icons=true&theme=graywhite&hide_border=true&count_private=true" height="155" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabishou11&layout=compact&theme=graywhite&hide_border=true" height="155" alt="Top languages" />
+<img src="https://github-stats-extended.vercel.app/api?username=kabishou11&show_icons=true&theme=graywhite&hide_border=true&count_private=true" height="155" alt="GitHub stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kabishou11&layout=compact&theme=graywhite&hide_border=true" height="155" alt="Top languages" />
 
 <br/>
 
