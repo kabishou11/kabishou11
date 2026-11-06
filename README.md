@@ -58,7 +58,7 @@ Based in Suzhou. Day job at ECARX.
 
 ### Selected upstream PRs
 
-~52 merged upstream PRs (as of 2026-10-27). A sample:
+~54 merged upstream PRs (as of 2026-11-05). A sample:
 
 | Project | PR | What |
 |---------|-----|------|
@@ -67,9 +67,11 @@ Based in Suzhou. Day job at ECARX.
 | [FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) | [#254](https://github.com/RUC-NLPIR/FlashRAG/pull/254) | Resolve BART and T5 refiner models in get_refiner |
 | [ragflow](https://github.com/infiniflow/ragflow) | [#19698](https://github.com/infiniflow/ragflow/pull/19698) | Require explicit edges for DataOperations query refs |
 | [qwen-code](https://github.com/QwenLM/qwen-code) | [#11925](https://github.com/QwenLM/qwen-code/pull/11925) | Drop oversized ACP notifications instead of tearing down the channel |
+| [qwen-code](https://github.com/QwenLM/qwen-code) | [#14383](https://github.com/QwenLM/qwen-code/pull/14383) | Treat grep -n as a flag so its file reads are still checked |
 | [SAG](https://github.com/Zleap-AI/SAG) | [#209](https://github.com/Zleap-AI/SAG/pull/209) | Support self-hosted MinerU 4.x via the V1 API |
 | [agentscope](https://github.com/agentscope-ai/agentscope) | [#3345](https://github.com/agentscope-ai/agentscope/pull/3345) | Keep frontmatter when the closing fence ends the text |
 | [promptfoo](https://github.com/promptfoo/promptfoo) | [#11366](https://github.com/promptfoo/promptfoo/pull/11366) | Insert nested var values literally when they contain $ patterns |
+| [promptfoo](https://github.com/promptfoo/promptfoo) | [#11812](https://github.com/promptfoo/promptfoo/pull/11812) | Return no output instead of throwing when a Nova message has no content |
 | [MNN](https://github.com/alibaba/MNN) | [#4834](https://github.com/alibaba/MNN/pull/4834) | Fail fast on out-of-range TFLite tensor/buffer indices |
 | [qdrant-client](https://github.com/qdrant/qdrant-client) | [#1599](https://github.com/qdrant/qdrant-client/pull/1599) | Ignore extra fields on formula geo points in local mode |
 | [ms-swift](https://github.com/modelscope/ms-swift) | [#10048](https://github.com/modelscope/ms-swift/pull/10048) | Preserve 2D predictions in predict_with_generate DDP eval |
