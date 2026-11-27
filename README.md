@@ -58,13 +58,15 @@ Based in Suzhou. Day job at ECARX.
 
 ### Selected upstream PRs
 
-~54 merged upstream PRs (as of 2026-11-05). A sample:
+~56 merged upstream PRs (as of 2026-11-27). A sample:
 
 | Project | PR | What |
 |---------|-----|------|
 | [dify](https://github.com/langgenius/dify) | [#41871](https://github.com/langgenius/dify/pull/41871) | Persist Chatflow Agent V2 memory by conversation_id |
 | [ag2](https://github.com/ag2ai/ag2) | [#3441](https://github.com/ag2ai/ag2/pull/3441) | Reject cross-provider files in Chat Completions messages |
 | [FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) | [#254](https://github.com/RUC-NLPIR/FlashRAG/pull/254) | Resolve BART and T5 refiner models in get_refiner |
+| [FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) | [#285](https://github.com/RUC-NLPIR/FlashRAG/pull/285) | Preserve completion prompts that already fit the token limit |
+| [LightRAG](https://github.com/HKUDS/LightRAG) | [#4643](https://github.com/HKUDS/LightRAG/pull/4643) | Isolate default hosts for cross-provider LLM roles |
 | [ragflow](https://github.com/infiniflow/ragflow) | [#19698](https://github.com/infiniflow/ragflow/pull/19698) | Require explicit edges for DataOperations query refs |
 | [qwen-code](https://github.com/QwenLM/qwen-code) | [#11925](https://github.com/QwenLM/qwen-code/pull/11925) | Drop oversized ACP notifications instead of tearing down the channel |
 | [qwen-code](https://github.com/QwenLM/qwen-code) | [#14383](https://github.com/QwenLM/qwen-code/pull/14383) | Treat grep -n as a flag so its file reads are still checked |
@@ -77,7 +79,7 @@ Based in Suzhou. Day job at ECARX.
 | [ms-swift](https://github.com/modelscope/ms-swift) | [#10048](https://github.com/modelscope/ms-swift/pull/10048) | Preserve 2D predictions in predict_with_generate DDP eval |
 | [qingjian](https://github.com/qingjian-team/qingjian) | [#348](https://github.com/qingjian-team/qingjian/pull/348) | Skip unreadable swash fonts; fix blank CJK candidates on macOS 27 |
 
-[All merged upstream PRs](https://github.com/search?q=author%3Akabishou11+is%3Apr+is%3Amerged+-user%3Akabishou11&type=issues)
+[All merged upstream PRs](https://github.com/search?q=author%3Akabishou11+is%3Apr+is%3Amerged+-user%3Akabishou11+-org%3Asuperaidc&type=issues)
 
 ---
 
